@@ -10,44 +10,71 @@
         "recipes": [
             {
                 "name": "Shorshe Ilish",
-                
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "4 pieces of Hilsa fish",
+                    "3 tablespoons of mustard oil",
+                    "1 tablespoon of black mustard seeds",
+                    "1 tablespoon of yellow mustard seeds",
+                    "1 tablespoon of turmeric powder",
+                    "1 tablespoon of red chili powder",
+                    "2 green chilies, slit lengthwise",
+                    "1 teaspoon of sugar",
+                    "Salt to taste",
+                    "1 cup of water"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
+                "method": "1. Clean and wash the Hilsa fish pieces. 2. In a bowl, mix together black mustard seeds, yellow mustard seeds, turmeric powder, red chili powder, sugar, and salt. 3. Add some water to the bowl and make a paste. 4. Heat mustard oil in a pan and fry the fish pieces until they turn golden brown. 5. Remove the fish from the pan and keep aside. 6. In the same pan, add the mustard paste and fry for 1-2 minutes. 7. Add 1 cup of water to the pan and bring it to a boil. 8. Add the fried fish and sliced green chilies to the pan. 9. Cover the pan and let it cook for 5-7 minutes or until the fish is cooked through. 10. Serve hot with steamed rice.",
                 "rating": 4.5,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-735x490.jpg.webp"
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-735x490.jpg.webp"
             },
             {
                 "name": "Kacchi Biriyani",
+                "name": "Kacchi Biriyani",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "1 kg of mutton",
+                    "2 cups of basmati rice",
+                    "4 tablespoons of ghee",
+                    "2 onions, sliced",
+                    "2 tablespoons of ginger paste",
+                    "2 tablespoons of garlic paste",
+                    "2 tablespoons of yogurt",
+                    "1 tablespoon of cumin powder",
+                    "1 tablespoon of coriander powder",
+                    "1 tablespoon of garam masala powder",
+                    "2 bay leaves",
+                    "4-5 green cardamoms",
+                    "4-5 cloves",
+                    "1 cinnamon stick",
+                    "Salt to taste",
+                    "4 cups of water"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
+                "method": "1. Wash the mutton and drain the water. 2. In a bowl, mix together the mutton, yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala powder, and salt. 3. Marinate the mutton for 2 hours. 4. Soak the basmati rice in water for 30 minutes. 5. Heat ghee in a pan and fry the sliced onions until golden brown. 6. Remove the onions from the pan and keep aside. 7. In the same pan, add the marinated mutton and fry for 10-12 minutes. 8. Add 4 cups of water, bay leaves, green cardamoms, cloves, cinnamon stick, and salt to the pan. 9. Cover the pan and let the mutton cook for 30-40 minutes or until tender. 10. In a separate pan, boil the soaked basmati rice with some salt and whole spices. 11. Preheat the oven to 350°F. 12. In a deep oven-safe dish, layer the rice and mutton, starting and ending with rice. 13. Add some fried onions and ghee on top. 14. Cover the dish with foil and bake for 30-40 minutes. 15. Serve hot with raita and salad.",
                 "rating": 4.2,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-02-735x490.jpg.webp"
-
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-02-735x490.jpg.webp"
             },
             {
                 "name": "Beef Kala Bhuna",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "500g beef, cut into small pieces",
+                    "3 tablespoons of vegetable oil",
+                    "2 medium onions, finely chopped",
+                    "1 tablespoon of ginger paste",
+                    "1 tablespoon of garlic paste",
+                    "2-3 green chilies, finely chopped",
+                    "1 tablespoon of cumin powder",
+                    "1 tablespoon of coriander powder",
+                    "1 tablespoon of turmeric powder",
+                    "1 teaspoon of red chili powder",
+                    "1 teaspoon of garam masala powder",
+                    "Salt to taste",
+                    "1 cup of hot water",
+                    "2-3 bay leaves",
+                    "1 cinnamon stick",
+                    "4-5 cardamom pods",
+                    "2-3 cloves"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
+                "method": "1. Heat oil in a pan and fry the onions until golden brown. Remove half of the onions and set aside. 2. Add the beef to the remaining onions and cook until the meat is browned. 3. Add the ginger paste, garlic paste, cumin powder, coriander powder, chili powder, turmeric powder, and salt. Cook for 2-3 minutes. 4. Add the yogurt and tomato paste and stir well. 5. Add 1 cup of water and bring to a boil. 6. Reduce heat, cover, and simmer until the beef is tender and the gravy has thickened. 7. Add the reserved fried onions, green chilies, and garam masala powder. Stir and cook for another 2-3 minutes. 8. Serve hot with rice or naan.",
                 "rating": 4.8,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-04-735x490.jpg.webp"
-
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-04-735x490.jpg.webp"
             }
         ]
     },
@@ -61,45 +88,71 @@
         "bio": "Sabrina Ahmed is a Bangladeshi chef who is the founder of the Sabrina's Kitchen cooking school in Dhaka.",
         "recipes": [
             {
-                "name": "Sheek Kebab with Naan ",
+                "name": "Sheek Kabab with Naan",
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "1 lb. ground lamb",
+                    "1 onion, finely chopped",
+                    "2 garlic cloves, minced",
+                    "1 tbsp. ginger paste",
+                    "1 tbsp. garam masala",
+                    "1 tsp. cumin powder",
+                    "1 tsp. coriander powder",
+                    "1 tsp. turmeric powder",
+                    "1/2 tsp. red chili powder",
+                    "1/4 tsp. cinnamon powder",
+                    "Salt, to taste",
+                    "1 tbsp. lemon juice",
+                    "4-6 bamboo skewers",
+                    "2 cups all-purpose flour",
+                    "1 tbsp. yeast",
+                    "1 tbsp. sugar",
+                    "1 tsp. salt",
+                    "1/4 cup vegetable oil",
+                    "3/4 cup warm water"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
-                "rating": 4.5,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-05b-735x490.jpg.webp"
-
+                "method": "1. In a large mixing bowl, mix together the ground lamb, onion, garlic, ginger paste, garam masala, cumin powder, coriander powder, turmeric powder, red chili powder, cinnamon powder, salt, and lemon juice. 2. Cover and marinate in the fridge for at least 30 minutes. 3. Preheat your grill or grill pan to medium-high heat. 4. Divide the lamb mixture into 4-6 portions and mold them onto the bamboo skewers to make kababs. 5. Brush the kababs with oil and grill for 6-8 minutes per side or until cooked through. 6. While the kababs are grilling, make the naan by mixing together the flour, yeast, sugar, salt, vegetable oil, and warm water in a mixing bowl. 7. Knead the dough on a floured surface for 5-7 minutes or until smooth. 8. Cover and let the dough rest for 15-20 minutes. 9. Preheat a non-stick skillet over medium heat. 10. Divide the dough into 4-6 portions and roll them into flat circles. 11. Cook each naan for 2-3 minutes on each side or until lightly browned and puffy. 12. Serve the sheek kababs with the naan bread.",
+                "rating": 4.7,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-05b-735x490.jpg.webp"
             },
             {
                 "name": "Dal (Lentil Soup)",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "1 cup yellow lentils",
+                    "4 cups water",
+                    "1 onion, chopped",
+                    "1 tomato, chopped",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon grated ginger",
+                    "1 teaspoon cumin",
+                    "1 teaspoon coriander",
+                    "1 teaspoon turmeric",
+                    "1/2 teaspoon red chili powder",
+                    "1/2 teaspoon garam masala",
+                    "2 tablespoons vegetable oil",
+                    "Salt to taste",
+                    "Cilantro for garnish"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
-                "rating": 4.2,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-06-735x490.jpg.webp"
-
+                "method": "1. Rinse lentils and soak in water for 30 minutes. \n2. Drain lentils and add to a pot with 4 cups of water. \n3. Add chopped onions, tomatoes, garlic, ginger, and all the spices. \n4. Bring to a boil and then simmer for about 30-40 minutes until lentils are cooked through. \n5. In a small pan, heat vegetable oil and fry some extra cumin and chili powder until fragrant. \n6. Pour the oil mixture into the pot of lentils and stir. \n7. Serve hot with naan bread and garnish with cilantro.",
+                "rating": 4.7,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-06-735x490.jpg.webp"
             },
             {
                 "name": "Bhorta (Mashed Vegetables with Spices)",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "2 cups of boiled and mashed vegetables (potatoes, eggplants, beans, etc.)",
+                    "1 onion, finely chopped",
+                    "2 green chilies, finely chopped",
+                    "2 cloves of garlic, minced",
+                    "1 tablespoon of mustard oil",
+                    "1 teaspoon of turmeric powder",
+                    "1 teaspoon of cumin powder",
+                    "1 teaspoon of coriander powder",
+                    "Salt to taste",
+                    "Cilantro leaves for garnishing"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
-                "rating": 4.8,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-07-735x490.jpg.webp"
-
+                "method": "1. Heat mustard oil in a pan. 2. Add onion, green chilies, and garlic. Sauté until the onion becomes translucent. 3. Add turmeric powder, cumin powder, and coriander powder. Sauté for a minute. 4. Add the boiled and mashed vegetables. Mix well. 5. Add salt to taste. 6. Cook for 5-7 minutes. 7. Garnish with cilantro leaves.",
+                "rating": 4.3,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-07-735x490.jpg.webp"
             }
         ]
     },
@@ -113,46 +166,68 @@
         "bio": " Shahena Ali is a Bangladeshi chef who has worked in some of the world's best kitchens and has been featured in publications like The Guardian and The Independent.",
         "recipes": [
             {
-                "name": " Fuchka",
+                "name": "Fuska",
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "50 pieces of Fuska puri (crispy hollow semolina balls)",
+                    "1 cup of chickpeas (boiled)",
+                    "1 cup of potatoes (boiled and diced)",
+                    "1/2 cup of cucumber (diced)",
+                    "1/2 cup of onion (finely chopped)",
+                    "1/2 cup of tomato (diced)",
+                    "1/4 cup of tamarind chutney",
+                    "1/4 cup of coriander-mint chutney",
+                    "1/4 cup of chaat masala",
+                    "Salt to taste"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
-                "rating": 4.5,
-                                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-08-735x490.jpg.webp"
-
-                
+                "method": "1. Take a Fuska puri and make a hole in the center. 2. Fill the puri with boiled chickpeas and diced potatoes. 3. Add diced cucumber, chopped onion, and diced tomato. 4. Add tamarind chutney and coriander-mint chutney. 5. Sprinkle chaat masala and salt to taste. 6. Serve immediately.",
+                "rating": 4.6,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-08-735x490.jpg.webp"
             },
             {
-                "name": "Kolijar Shingara ",
+                "name": "Koliza Singara",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "4 large potatoes, boiled and mashed",
+                    "1 onion, finely chopped",
+                    "1/4 cup green peas",
+                    "2 green chilies, finely chopped",
+                    "1/4 tsp turmeric powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp coriander powder",
+                    "1/4 tsp red chili powder",
+                    "1/4 tsp garam masala powder",
+                    "Salt to taste",
+                    "Oil for frying",
+                    "8-10 samosa wrappers"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
-                "rating": 4.2,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-09-735x490.jpg.webp"
-
+                "method": "1. In a pan, heat 2 tablespoons of oil and add chopped onions. Sauté until translucent. 2. Add green peas and cook for 2-3 minutes. 3. Add mashed potatoes and mix well. 4. Add turmeric powder, cumin powder, coriander powder, red chili powder, garam masala powder, and salt to taste. Mix well. 5. Let the mixture cool down. 6. Take a samosa wrapper and fill it with 2 tablespoons of the potato mixture. 7. Seal the edges of the wrapper with water. 8. Heat oil in a deep frying pan. Fry the samosas until golden brown. 9. Serve hot with chutney or ketchup.",
+                "rating": 4.3,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-09-735x490.jpg.webp"
             },
             {
-                "name": "Tiramisu",
+                "name": "Haleem",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "1 lb. boneless lamb meat",
+                    "1 cup whole wheat",
+                    "1/2 cup yellow split peas",
+                    "1/2 cup red lentils",
+                    "1/4 cup barley",
+                    "1/4 cup oats",
+                    "1/4 cup rice",
+                    "1/2 cup yogurt",
+                    "2 onions, finely chopped",
+                    "1 tbsp. ginger paste",
+                    "1 tbsp. garlic paste",
+                    "1 tsp. turmeric powder",
+                    "1 tsp. red chili powder",
+                    "1 tsp. cumin powder",
+                    "1 tsp. coriander powder",
+                    "1 tsp. garam masala powder",
+                    "1/2 cup oil",
+                    "Salt to taste"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
-                "rating": 4.8,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-10-735x490.jpg.webp"
-
+                "method": "1. Soak wheat, split peas, lentils, barley, oats, and rice in water for 2-3 hours. 2. Boil lamb meat in a pot with water and salt until tender. 3. Remove the meat from the pot and shred it. 4. In the same pot, add oil and fry onions until brown. 5. Add ginger and garlic paste and fry for a minute. 6. Add all the spices and fry for another minute. 7. Add shredded lamb and fry for a few minutes. 8. Add the soaked grains, 6 cups of water, and yogurt to the pot. 9. Cook for 4-5 hours on low heat, stirring occasionally, until the grains are fully cooked and the mixture is thick and creamy. 10. Serve hot, garnished with fried onions, lemon wedges, and chopped cilantro.",
+                "rating": 4.9,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-10-735x490.jpg.webp"
             }
         ]
     },
@@ -166,45 +241,51 @@
         "bio": "Shawkat Osman is a Bangladeshi chef who is the founder of the culinary arts school, the Institute of Fine Arts and Culture, in Dhaka.",
         "recipes": [
             {
-                "name": "Roshogolla",
+                "name": "Rosogolla",
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "1 liter of milk",
+                    "1 lemon",
+                    "3 cups of sugar",
+                    "3 cups of sugar",
+                    "4 cups of water"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
-                "rating": 4.5,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-11-735x490.jpg.webp"
-
+                "method": "1. In a large pot, bring milk to a boil, stirring occasionally. 2. Reduce heat and add lemon juice. Stir until curdles form. 3. Strain the curdled milk through a cheesecloth or muslin cloth. 4. Rinse the cheese under cold water to remove lemon flavor. 5. Squeeze out the excess water and set aside. 6. In a separate pot, combine sugar and water, and bring to a boil. 7. Add the cheese balls to the sugar syrup and let it simmer for 20-25 minutes. 8. Remove from heat and let it cool. 9. Serve chilled.",
+                "rating": 4.7,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-11-735x490.jpg.webp"
             },
             {
                 "name": "Chomchom",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "2 litres of milk",
+                    "2 cups of sugar",
+                    "1 tablespoon of all-purpose flour",
+                    "1 tablespoon of semolina",
+                    "1 tablespoon of rose water",
+                    "1 teaspoon of cardamom powder",
+                    "1/2 cup of heavy cream"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
-                "rating": 4.2,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-12-scaled-735x490.jpg.webp"
-
+                "method": "1. In a heavy-bottomed pan, bring the milk to a boil. Reduce heat to low and stir frequently until the milk is reduced to half its volume.\n2. Add sugar, flour, and semolina, stirring until the sugar dissolves.\n3. Add rose water and cardamom powder, stirring well.\n4. Cook on medium heat, stirring occasionally until the mixture thickens and starts to come together in a mass.\n5. Remove from heat and let cool for a few minutes.\n6. Divide the mixture into equal portions and roll each portion into an oval shape.\n7. Heat heavy cream in a separate pan and add the chomchoms. Cook for a few minutes, spooning the cream over the chomchoms, until the cream thickens.\n8. Remove from heat and let cool before serving.",
+                "rating": 4.6,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-12-scaled-735x490.jpg.webp"
             },
             {
-                "name": " Jilapi",
+                "name": "Jilapi",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "1 cup all-purpose flour",
+                    "1 tablespoon semolina",
+                    "1/2 teaspoon baking powder",
+                    "1/4 teaspoon baking soda",
+                    "1/4 teaspoon salt",
+                    "1/2 cup water",
+                    "2 cups sugar",
+                    "1 cup water",
+                    "1/4 teaspoon saffron threads",
+                    "1/2 teaspoon rose water",
+                    "oil for frying"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
-                "rating": 4.8,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-13-735x490.jpg.webp"
-
+                "method": "1. In a mixing bowl, combine flour, semolina, baking powder, baking soda, and salt. Mix well.\n2. Gradually add water and mix to form a smooth batter.\n3. Cover the bowl with a cloth and let it rest for 2 hours.\n4. In a deep pan, heat oil on medium heat.\n5. Put the jilapi batter in a piping bag and squeeze it in the hot oil to form spirals.\n6. Fry until golden brown and crispy, then remove from oil and place on paper towel to remove excess oil.\n7. In a saucepan, combine sugar, water, and saffron threads. Bring to a boil and then reduce heat to low.\n8. Add rose water and let it simmer until it becomes a thick syrup.\n9. Dip the fried jilapi in the syrup and let it soak for a few minutes before serving.",
+                "rating": 4.6,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-13-735x490.jpg.webp"
             }
         ]
     },
@@ -218,45 +299,50 @@
         "bio": "Tony Khan is a Bangladeshi chef who is the founder of the Rokomari Kitchen cooking school and has worked as a private chef for high-profile clients.",
         "recipes": [
             {
-                "name": "Bhapa Pitha",
+                "name": "Vapa Pitha",
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "2 cups of rice flour",
+                    "1 cup of water",
+                    "1/2 cup of grated coconut",
+                    "1/2 cup of jaggery",
+                    "1/2 teaspoon of cardamom powder",
+                    "1/4 cup of oil for greasing",
+                    "A pinch of salt"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
-                "rating": 4.5,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-14-735x490.jpg.webp"
-
+                "method": "1. In a pan, heat the jaggery and water until the jaggery dissolves completely. 2. Strain the mixture to remove any impurities. 3. Add the grated coconut and cardamom powder to the jaggery syrup and mix well. 4. In a separate pan, dry roast the rice flour until it turns slightly brown. 5. Add the rice flour to the jaggery syrup mixture and stir well. 6. Grease a plate or a steaming tray with oil and spread the mixture on it evenly. 7. Steam the mixture for 15-20 minutes. 8. Remove from heat and let it cool down before cutting it into desired shapes.",
+                "rating": 4.7,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-14-735x490.jpg.webp"
             },
             {
-                "name": " Mishti Doi",
+                "name": "Misti Doi",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "1 liter full-fat milk",
+                    "1 cup sugar",
+                    "1 cup sugar",
+                    "2-3 green cardamom pods",
+                    "1 teaspoon ghee"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
-                "rating": 4.2,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-15b-735x490.jpg.webp"
-
+                "method": "1. In a heavy-bottomed pan, heat milk and let it come to a boil. 2. Reduce heat and let it simmer for 30-40 minutes, stirring occasionally, until the milk reduces to half its original quantity. 3. Add sugar and cardamom pods to the milk, stirring until the sugar dissolves. 4. Let the mixture simmer on low heat for another 15-20 minutes, stirring occasionally, until it thickens and turns golden brown in color. 5. Grease a clay pot or small earthenware pots with ghee and pour the mixture into them. 6. Cover the pots with a lid or aluminum foil and place them in a warm place for 6-8 hours or overnight, allowing the yogurt culture to develop and ferment the milk. 7. Serve chilled, garnished with pistachios or almonds, if desired.",
+                "rating": 4.7,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-15b-735x490.jpg.webp"
             },
             {
-                "name": "Borhani ",
+                "name": "Borhani",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "1 cup plain yogurt",
+                    "2 cups cold water",
+                    "1 tablespoon mint leaves, chopped",
+                    "1 tablespoon coriander leaves, chopped",
+                    "1 tablespoon ginger paste",
+                    "1 tablespoon sugar",
+                    "1 teaspoon black salt",
+                    "1/2 teaspoon cumin powder",
+                    "1/4 teaspoon chili powder",
+                    "1/4 teaspoon turmeric powder"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
-                "rating": 4.8,
-                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-16-735x490.jpg.webp"
-
+                "method": "1. In a large bowl, mix together yogurt, water, mint leaves, coriander leaves, and ginger paste. 2. Add sugar, black salt, cumin powder, chili powder, and turmeric powder. 3. Mix well until all ingredients are well combined. 4. Cover and refrigerate for at least 1 hour before serving.",
+                "rating": 4.6,
+                "foodimg": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-16-735x490.jpg.webp"
             }
         ]
     },
@@ -270,45 +356,70 @@
         "bio": "Nahid Osman is a Bangladeshi chef who has worked in some of the world's top kitchens, including The Ritz-Carlton and Four Seasons hotels. She is also a judge on MasterChef Bangladesh.",
         "recipes": [
             {
-                "name": " Panta Ilish",
+                "name": "Panta Ilish",
                 "ingredients": [
-                    "spaghetti",
-                    "eggs",
-                    "pecorino cheese",
-                    "pancetta",
-                    "black pepper"
+                    "1 piece of Hilsa fish",
+                    "1 cup of leftover rice",
+                    "1/2 cup of water",
+                    "2 tablespoons of plain yogurt",
+                    "1/2 teaspoon of salt",
+                    "1/2 teaspoon of mustard oil",
+                    "1/4 teaspoon of turmeric powder",
+                    "2 green chilies, finely chopped",
+                    "1 small onion, finely chopped",
+                    "1/4 cup of coriander leaves, finely chopped"
                 ],
-                "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
-                "rating": 4.5,
-                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp"
-
+                "method": "1. Wash the leftover rice and soak it in 1/2 cup of water for 1 hour.\n2. In a bowl, mix together the soaked rice, plain yogurt, salt, mustard oil, turmeric powder, chopped green chilies, onion, and coriander leaves.\n3. Mash the mixture with your hand until it becomes a smooth paste.\n4. Add more water if needed to get a pouring consistency.\n5. Fry the Hilsa fish lightly on a pan and add it to the mixture.\n6. Pour the mixture into a deep bowl, add a little more water if needed to get the desired consistency.\n7. Cover the bowl with a lid and keep it at room temperature for 8-10 hours, or overnight, to allow the fermentation process to take place.\n8. Serve the Panta Ilish chilled.",
+                "rating": 4.7,
+                "foodimg": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp"
             },
             {
                 "name": "Vuna Khichuri",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "basil"
+                    "1 cup of basmati rice",
+                    "1 cup of yellow split peas",
+                    "500g of beef",
+                    "2 onions, sliced",
+                    "2 tablespoons of ginger paste",
+                    "2 tablespoons of garlic paste",
+                    "2 tablespoons of cumin powder",
+                    "2 tablespoons of coriander powder",
+                    "1 tablespoon of turmeric powder",
+                    "1 tablespoon of red chili powder",
+                    "4-5 green chilies, sliced",
+                    "2 tablespoons of ghee",
+                    "Salt to taste",
+                    "4 cups of water"
                 ],
-                "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
-                "rating": 4.2,
-                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp"
-
+                "method": "1. Wash the rice and split peas and soak them separately for 30 minutes. \n2. In a pot, heat the ghee and fry the onions until they turn golden brown. \n3. Add the beef, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Cook until the beef is tender. \n4. Add the rice, split peas, and water. Mix well. \n5. Add the green chilies and bring to a boil. \n6. Reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes or until the rice and split peas are cooked and the water has been absorbed. \n7. Serve hot.",
+                "rating": 4.7,
+                "foodimg": "https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp"
             },
             {
                 "name": "Morog Polao",
                 "ingredients": [
-                    "ladyfingers",
-                    "mascarpone cheese",
-                    "eggs",
-                    "sugar",
-                    "espresso"
+                    "1 lb chicken, cut into pieces",
+                    "2 cups basmati rice, washed and drained",
+                    "2 cups chicken broth",
+                    "1 cup yogurt",
+                    "2 onions, thinly sliced",
+                    "4 cloves garlic, minced",
+                    "2 tbsp ginger paste",
+                    "2 cinnamon sticks",
+                    "6 green cardamom pods",
+                    "6 whole cloves",
+                    "1 bay leaf",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chili powder",
+                    "1/2 tsp garam masala",
+                    "1/2 cup ghee or vegetable oil",
+                    "Salt to taste"
                 ],
-                "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
+                "method": "1. Heat ghee or oil in a large pot over medium heat. Add cinnamon sticks, cardamom pods, cloves, and bay leaf. Fry for 1-2 minutes until fragrant.\n2. Add sliced onions and fry until golden brown.\n3. Add chicken pieces and fry until golden brown.\n4. Add garlic and ginger paste and fry for 1-2 minutes.\n5. Add cumin powder, coriander powder, turmeric powder, and red chili powder. Fry for 1-2 minutes.\n6. Add yogurt and stir well. Cook for 5-7 minutes until the chicken is cooked through.\n7. Add rice and chicken broth. Bring to a boil.\n8. Reduce heat to low, cover, and cook for 20-25 minutes until the rice is cooked and the liquid has been absorbed.\n9. Sprinkle garam masala on top and serve hot.",
                 "rating": 4.8,
-                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp"
-
+                "foodimg": "https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp"
             }
         ]
     }
