@@ -9,7 +9,8 @@
         "bio": "Tommy Miah is a well-known Bangladeshi chef who has written several cookbooks and is the founder of the International Indian Chef of the Year Competition.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": "Shorshe Ilish",
+                
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -19,10 +20,10 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-735x490.jpg.webp"
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Kacchi Biriyani",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -31,11 +32,11 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-02-735x490.jpg.webp"
 
             },
             {
-                "name": "Tiramisu",
+                "name": "Beef Kala Bhuna",
                 "ingredients": [
                     "ladyfingers",
                     "mascarpone cheese",
@@ -45,7 +46,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-04-735x490.jpg.webp"
 
             }
         ]
@@ -53,14 +54,14 @@
     {
         "id": "2",
         "picture": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?w=740&t=st=1683082552~exp=1683083152~hmac=6d364785782f862d0d10a014b514e90472d8142ebb27ed15bb6dd5a66b2f55ab",
-        "name": "Chef John",
+        "name": "Sabrina Ahmed",
         "experience": 10,
-        "numRecipes": 50,
+        "numRecipes": 3,
         "likes": 100,
-        "bio": "Chef John has been a professional chef for over 10 years, specializing in Italian cuisine.",
+        "bio": "Sabrina Ahmed is a Bangladeshi chef who is the founder of the Sabrina's Kitchen cooking school in Dhaka.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": "Sheek Kebab with Naan ",
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -70,11 +71,11 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-05b-735x490.jpg.webp"
 
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Dal (Lentil Soup)",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -83,11 +84,11 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-06-735x490.jpg.webp"
 
             },
             {
-                "name": "Tiramisu",
+                "name": "Bhorta (Mashed Vegetables with Spices)",
                 "ingredients": [
                     "ladyfingers",
                     "mascarpone cheese",
@@ -97,7 +98,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-07-735x490.jpg.webp"
 
             }
         ]
@@ -105,14 +106,14 @@
     {
         "id": "3",
         "picture": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall_141793-33306.jpg?w=740&t=st=1683082612~exp=1683083212~hmac=356f306d9f26abaa937cf33e7f75df4f6741761f6a1ebcff610433f0909f63d1",
-        "name": "Chef John",
+        "name": "Shahena Ali",
         "experience": 10,
-        "numRecipes": 50,
+        "numRecipes": 3,
         "likes": 100,
-        "bio": "Chef John has been a professional chef for over 10 years, specializing in Italian cuisine.",
+        "bio": " Shahena Ali is a Bangladeshi chef who has worked in some of the world's best kitchens and has been featured in publications like The Guardian and The Independent.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": " Fuchka",
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -122,12 +123,12 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-08-735x490.jpg.webp"
 
                 
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Kolijar Shingara ",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -136,7 +137,7 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-09-735x490.jpg.webp"
 
             },
             {
@@ -150,7 +151,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-10-735x490.jpg.webp"
 
             }
         ]
@@ -158,14 +159,14 @@
     {
         "id": "4",
         "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-withfinger-side-looking-camera-with-confident-expression-standing-pink-background_141793-21071.jpg?w=740&t=st=1683082684~exp=1683083284~hmac=19ee729ad177aa4c2ab57da0c3aa06dd968f0fa4defc014cd441cd5ec187c0ee",
-        "name": "Chef John",
+        "name": "Shawkat Osman",
         "experience": 10,
-        "numRecipes": 50,
+        "numRecipes": 3,
         "likes": 100,
-        "bio": "Chef John has been a professional chef for over 10 years, specializing in Italian cuisine.",
+        "bio": "Shawkat Osman is a Bangladeshi chef who is the founder of the culinary arts school, the Institute of Fine Arts and Culture, in Dhaka.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": "Roshogolla",
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -175,11 +176,11 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-11-735x490.jpg.webp"
 
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Chomchom",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -188,11 +189,11 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-12-scaled-735x490.jpg.webp"
 
             },
             {
-                "name": "Tiramisu",
+                "name": " Jilapi",
                 "ingredients": [
                     "ladyfingers",
                     "mascarpone cheese",
@@ -202,7 +203,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-13-735x490.jpg.webp"
 
             }
         ]
@@ -210,14 +211,14 @@
     {
         "id": "5",
         "picture": "https://img.freepik.com/free-photo/young-male-cook-chef-uniform-raising-hand-looking_141793-26338.jpg?w=740&t=st=1683082738~exp=1683083338~hmac=1ad333ecb95598515fc9e18f9f0c783ec4b16a4583b65cc920eef1eeaa605619",
-        "name": "Chef John",
+        "name": "Tony Khan",
         "experience": 10,
-        "numRecipes": 50,
+        "numRecipes": 3,
         "likes": 100,
-        "bio": "Chef John has been a professional chef for over 10 years, specializing in Italian cuisine.",
+        "bio": "Tony Khan is a Bangladeshi chef who is the founder of the Rokomari Kitchen cooking school and has worked as a private chef for high-profile clients.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": "Bhapa Pitha",
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -227,11 +228,11 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-14-735x490.jpg.webp"
 
             },
             {
-                "name": "Margherita Pizza",
+                "name": " Mishti Doi",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -240,11 +241,11 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-15b-735x490.jpg.webp"
 
             },
             {
-                "name": "Tiramisu",
+                "name": "Borhani ",
                 "ingredients": [
                     "ladyfingers",
                     "mascarpone cheese",
@@ -254,7 +255,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-16-735x490.jpg.webp"
 
             }
         ]
@@ -262,14 +263,14 @@
     {
         "id": "6",
         "picture": "https://img.freepik.com/free-photo/male-chef-cook-wearing-black-uniform-cook-hat-clenching-fists-happy-positive-winner-concept-standing-pink-background_141793-54477.jpg?w=740&t=st=1683082798~exp=1683083398~hmac=cd7b838cf33238489e0416bb3929cb2e15e4ffd858e9d69365092b0f7f33699a",
-        "name": "Chef John",
+        "name": "Nahid Osman",
         "experience": 10,
-        "numRecipes": 50,
+        "numRecipes": 3,
         "likes": 100,
-        "bio": "Chef John has been a professional chef for over 10 years, specializing in Italian cuisine.",
+        "bio": "Nahid Osman is a Bangladeshi chef who has worked in some of the world's top kitchens, including The Ritz-Carlton and Four Seasons hotels. She is also a judge on MasterChef Bangladesh.",
         "recipes": [
             {
-                "name": "Spaghetti Carbonara",
+                "name": " Panta Ilish",
                 "ingredients": [
                     "spaghetti",
                     "eggs",
@@ -279,11 +280,11 @@
                 ],
                 "method": "1. Cook spaghetti in salted boiling water. 2. Beat eggs, pecorino cheese, and black pepper in a bowl. 3. In a pan, cook pancetta until crispy. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture, stirring until creamy.",
                 "rating": 4.5,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp"
 
             },
             {
-                "name": "Margherita Pizza",
+                "name": "Vuna Khichuri",
                 "ingredients": [
                     "pizza dough",
                     "tomato sauce",
@@ -292,11 +293,11 @@
                 ],
                 "method": "1. Roll out pizza dough. 2. Spread tomato sauce on top. 3. Add mozzarella cheese. 4. Bake in a preheated oven at 425°F for 12-15 minutes. 5. Garnish with fresh basil.",
                 "rating": 4.2,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp"
 
             },
             {
-                "name": "Tiramisu",
+                "name": "Morog Polao",
                 "ingredients": [
                     "ladyfingers",
                     "mascarpone cheese",
@@ -306,7 +307,7 @@
                 ],
                 "method": "1. Brew espresso and let it cool. 2. Beat egg yolks and sugar in a bowl until creamy. 3. Add mascarpone cheese and mix well. 4. Beat egg whites until stiff peaks form. 5. Gently fold egg whites into the mascarpone mixture. 6. Dip ladyfingers in the espresso and arrange in a dish. 7. Cover with the mascarpone mixture. 8. Refrigerate for at least 2 hours. 9. Dust with cocoa powder before serving.",
                 "rating": 4.8,
-                "foodimg":"https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683043282~exp=1683043882~hmac=0a303d780e14c696715dff66edb0bb103db71e1c6b46445330226e39f7deb22d"
+                "foodimg":"https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp"
 
             }
         ]
