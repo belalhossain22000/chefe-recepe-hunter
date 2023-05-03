@@ -7,6 +7,7 @@ app.use(cors());
 const port = 5000;
 const allData = require("./data.json");
 const feature = require("./featurRecipes.json");
+const chefTips = require("./chefTips.json");
 
 app.get("/", (req, res) => {
   res.send("Hello server is running!");
@@ -22,6 +23,9 @@ app.get("/allData/:id", (req, res) => {
 
 app.get("/feature", (req, res) => {
   res.send(feature);
+});
+app.get("/chefTips", (req, res) => {
+  res.send(chefTips);
 });
 
 app.listen(port, () => {
